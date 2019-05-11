@@ -1,6 +1,9 @@
 # useful-code
 Important Piece of code, I come across my developer phase.
 
+# Spring Data JPA Specification with Search criteria and Pagination.
+
+
 # Important Tools and Plungins we used during development phase:
 1. Sonar Qube for Code Qality gate check 
 
