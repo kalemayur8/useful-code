@@ -42,3 +42,7 @@ Link : https://stackoverflow.com/questions/30875657/multiple-context-root-for-si
  2. Creating Dashboard.
  
 8. Appdynamics
+
+9. EclEmma Java Code Coverage
+
+https://marketplace.eclipse.org/content/eclemma-java-code-coverage
