@@ -46,3 +46,7 @@ Link : https://stackoverflow.com/questions/30875657/multiple-context-root-for-si
 9. EclEmma Java Code Coverage
 
 https://marketplace.eclipse.org/content/eclemma-java-code-coverage
+
+10 wiremock to mock the response json
+
+https://wiremock.org/docs/running-standalone/
