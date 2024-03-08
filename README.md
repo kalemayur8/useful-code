@@ -50,3 +50,9 @@ https://marketplace.eclipse.org/content/eclemma-java-code-coverage
 10 wiremock to mock the response json
 
 https://wiremock.org/docs/running-standalone/
+
+11 CSS libraries 
+   2024
+   https://ui.shadcn.com/
+   https://www.freecodecamp.org/news/learn-tailwind-css/
+   
