@@ -57,4 +57,8 @@ https://wiremock.org/docs/running-standalone/
    https://ui.shadcn.com/
    
    https://www.freecodecamp.org/news/learn-tailwind-css/
+
+12 Drag and Drop 
+
+https://dndkit.com/
    
